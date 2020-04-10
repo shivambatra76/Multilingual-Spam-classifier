@@ -1,5 +1,5 @@
 # Multilingual-Spam-classifier
-In this project we have implemented a spam classifier  using Multilingual Embedding to classify in more than 10 languages. 
+In this project I have implemented a spam classifier  using Multilingual Embedding to classify in more than 10 languages. 
 
 Pipeline of the Project:
 
